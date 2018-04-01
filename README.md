@@ -6,5 +6,4 @@
 
 4.[nodejs中stream(流)学习分享](https://github.com/ismeteor/promise/blob/master/nodejs%E4%B8%ADstream(%E6%B5%81)%E5%AD%A6%E4%B9%A0%E5%88%86%E4%BA%AB.md)
 
-5.[ES6这一篇就够了]
-(https://github.com/ismeteor/promise/blob/master/ES6%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86.md)
+5.[ES6这一篇就够了](https://github.com/ismeteor/promise/blob/master/ES6%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86.md)
